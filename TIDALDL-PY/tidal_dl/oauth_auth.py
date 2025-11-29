@@ -16,7 +16,7 @@ from threading import Thread
 import os
 from pathlib import Path
 
-logging.basicConfig(level=logging. INFO)
+logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
