@@ -1,5 +1,5 @@
 """
-Authentification OAuth 2.0 pour l'API Tidal avec PKCE.  
+Authentification OAuth 2.0 pour l'API Tidal avec PKCE. 
 Alternative robuste au système d'authentification Device Code.
 """
 import json
