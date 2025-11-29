@@ -1,0 +1,6 @@
+# Tidal API OAuth Configuration
+# Get your credentials at https://developer.tidal.com/
+TIDAL_CLIENT_ID=XFBEPlTfr8Oy2Kxr
+TIDAL_CLIENT_SECRET=IgyHlQhwEcLd0cc6cMTXyEM8m90b1QRaXlHc7x
+TIDAL_REDIRECT_URI=http://localhost:8080/callback
+TIDAL_COUNTRY_CODE=CA
