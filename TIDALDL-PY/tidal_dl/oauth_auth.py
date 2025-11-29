@@ -41,7 +41,7 @@ class CallbackHandler(BaseHTTPRequestHandler):
                     <html>
                         <head><title>Authentication Success</title></head>
                         <body style="font-family: Arial; text-align: center; padding: 50px;">
-                            <h1>Authentication Successful! </h1>
+                            <h1>Authentication Successful!</h1>
                             <p>You can close this window and return to the application.</p>
                         </body>
                     </html>
