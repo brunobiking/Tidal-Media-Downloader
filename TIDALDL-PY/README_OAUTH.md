@@ -104,13 +104,13 @@ Créez un fichier `. env` dans le dossier `TIDALDL-PY` :
 
 ```env
 
-TIDAL\_CLIENT\_ID=votre\_client\_id
+TIDAL_CLIENT_ID=votre_client_id
 
-TIDAL\_CLIENT\_SECRET=votre\_client\_secret
+TIDAL_CLIENT_SECRET=votre_client_secret
 
-TIDAL\_REDIRECT\_URI=http://localhost:8080/callback
+TIDAL_REDIRECT_URI=http://localhost:8080/callback
 
-TIDAL\_COUNTRY\_CODE=CA
+TIDAL_COUNTRY_CODE=CA
 
 ```
 
