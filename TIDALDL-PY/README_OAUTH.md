@@ -24,19 +24,19 @@ Ce fork utilise une authentification OAuth personnalisée nécessitant \*\*vos p
 
 1\. \*\*Compte développeur Tidal\*\*
 
-&nbsp;  - Créez un compte sur https://developer.tidal.com/
+  - Créez un compte sur https://developer.tidal.com/
 
-&nbsp;  - Créez une nouvelle application
+  - Créez une nouvelle application
 
-&nbsp;  - Notez votre `client\_id` et `client\_secret`
+  - Notez votre `client_id` et `client_secret`
 
 
 
-2\. \*\*Configuration de l'application Tidal\*\*
+2. **Configuration de l'application Tidal**
 
-&nbsp;  - Redirect URI : `http://localhost:8080/callback`
+  - Redirect URI : `http://localhost:8080/callback`
 
-&nbsp;  - Scopes nécessaires : `r\_usr w\_usr w\_sub`
+  - Scopes nécessaires : `r_usr w_usr w_sub`
 
 
 
