@@ -18,7 +18,7 @@ Ce fork utilise une authentification OAuth personnalisée nécessitant \*\*vos p
 
 
 
-\## 📋 Prérequis
+## 📋 Prérequis
 
 
 
